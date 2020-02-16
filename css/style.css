@@ -1,0 +1,116 @@
+@font-face {
+  src: url(../fonts/Montserrat-Regular.ttf);
+  font-family: Montserrat;
+}
+@font-face {
+  src: url(../fonts/Sacramento-Regular.ttf);
+  font-family: Sacramento;
+}
+@font-face {
+  src: url(../fonts/Merriweather-Regular.ttf);
+  font-family: Merriweather;
+}
+* {
+  padding: 0%;
+  margin: 0%;
+  color:deeppink;
+}
+
+.navbar{
+  float: right;
+  padding-right: 40px;
+  font-size: 50px;
+  font-family: Merriweathert;
+}
+.top-title{
+padding-top: 30rem;
+font-size: 150px;
+}
+.header{
+background-image: url(../img/images-11.jpg);
+font-family: "Merriweather";
+background-position: inherit;
+background-size: cover;
+width: 80%;
+margin: 0 auto;
+text-align: center;
+height:700px;
+}
+.mid-container {
+  background-color: black;
+  text-align: center;
+
+
+}
+.blink{
+  font-size: 30px;
+  font-family: "Monserrat";
+  color: black;
+
+}
+.mem{
+  font-family: "Sacramento";
+  font-weight: bold;
+  font-size: 70px;
+}
+.details{
+  font-size:45px;
+}
+.jisoo {
+  height: 5px;
+  padding-left: 50px;
+  font-size: 70px;
+  font-family: "Sacramento";
+  font-weight: bold;
+}
+.details-jisoo{
+  font-family: "Merriweather";
+  font-size: 30px;
+  padding-top:40px;
+}
+.jennie {
+  height: 5px;
+  padding-left: 50px;
+  font-family: "Sacramento";
+  font-size: 70px;
+  font-weight: bold;
+}
+.details-jennie{
+  font-family: "Merriweather";
+  font-size: 30px;
+  padding-top:40px;
+}
+.rose {
+  height: 5px;
+  padding-left: 50px;
+  font-family: "Sacramento";
+  font-size: 70px;
+  font-weight: bold;
+}
+.details-rose{
+  font-family: "Merriweather";
+  font-size: 30px;
+  padding-top:40px;
+}
+.lisa {
+  height: 5px;
+  padding-left: 50px;
+  font-family: "Sacramento";
+  font-size: 70px;
+  font-weight: bold;
+}
+.details-lisa{
+  font-family: "Merriweather";
+  font-size: 30px;
+  padding-top:40px;
+}
+
+.footer {
+  background: pink;
+  margin-top: 10px;
+  height: 200px;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+

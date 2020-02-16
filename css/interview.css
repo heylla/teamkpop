@@ -1,0 +1,128 @@
+@font-face {
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-family: Monserrat;
+  }
+  @font-face {
+    src: url(../fonts/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+  }
+  @font-face {
+    src: url(../fonts/Merriweather-Regular.ttf);
+    font-family: Merriweather;
+  }
+  * {
+    padding: 0%;
+    margin: 0%;
+    color: deeppink;
+  }
+.main{
+    background-color: black;
+}
+.navbar{
+  float: right;
+  padding-right: 40px;
+  font-size: 50px;
+  font-family: Merriweather;
+  }
+.top-title{
+  padding-top: 30rem;
+  font-size: 150px;
+  text-align: center;
+  }
+.header{
+  background-image: url(../img/images-11.jpg);
+  font-family: "Merriweather";
+  background-position: inherit;
+  background-size: cover;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  height:700px;
+}
+.h1{
+  text-align: center;
+    font-family: Sacramento;
+    font-size: 80px;
+}
+
+  .interview{
+      height: 220vh;
+    padding-top: 20px;
+    font-weight: bold;
+  }
+  .quennie {
+        clear: left;
+        float: left;
+        width: 300px;
+        margin-left: 45rem;
+        margin-top: 5rem;
+        margin-bottom: 3rem;
+  }
+  .quenniecont{
+      float: right;
+      font-size: 30px;
+      margin-right: 40rem;
+      margin-top: 10rem;
+  }
+  .jessica {
+    clear: left;
+        float: left;
+        width: 300px;
+        margin-left: 45rem;
+        margin-bottom: 3rem;
+  }
+  .jessicacont{
+    float: right;
+      font-size: 30px;
+      margin-right: 40rem;
+      margin-top:5rem;
+  }
+  .skekina {
+    clear: left;
+    float: left;
+    width: 300px;
+    margin-left: 45rem;
+    margin-bottom: 3rem;
+  }
+  .skekina1cont{
+    float: right;
+      font-size: 30px;
+      margin-right: 32rem;
+      margin-top: 5rem;
+  }
+  .gretchen {
+    clear: left;
+        float: left;
+        width: 300px;
+        margin-left: 45rem;
+        margin-bottom: 3rem;
+  }
+  .gretchencont{
+    float: right;
+      font-size: 30px;
+      margin-right: 30rem;
+      margin-top: 5rem;
+  }
+  .elsie {
+    clear: left;
+    float: left;
+    width: 300px;
+    margin-left: 45rem;
+    margin-bottom: 3rem;
+  }
+  .elsiecont{
+    float: right;
+    font-size: 30px;
+    margin-right: 35rem;
+    margin-top: 5rem;
+  }
+  
+  .footer {
+    text-align: center;
+    background: pink;
+    margin-top: 10px;
+    height: 200px;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
